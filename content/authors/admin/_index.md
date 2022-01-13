@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Mumtaz Ahmad
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Lecturer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Ryerson University
+  url: https://www.ryerson.ca/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Economics
+    institution: Carleton University
+    year: 2021
+  - course: MA Economics
+    institution: Memorial University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Mathematics, Economics and Statistics
+    institution: University of the Punjab
+    year: 1999
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -57,7 +57,7 @@ social:
   link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
