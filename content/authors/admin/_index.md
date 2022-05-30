@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mumtaz Ahmad, PhD
+title: Mumtaz Ahmad
 
 # Is this the primary user of the site?
 superuser: true
