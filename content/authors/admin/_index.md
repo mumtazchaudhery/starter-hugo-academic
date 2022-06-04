@@ -70,8 +70,10 @@ email: "ahmad.mumtaz@outlook.com"
 highlight_name: true
 ---
 
-Mumtaz Ahmad is a professor of Macroeconomics at Ryerson University. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Born and raised in Okara, Pakistan, I am a Doctor of Philosophy in Economics with a focus on Monetary Economics and Econometrics. I was educated at Government College Lahore (GCU), Lahore University of Management Sciences (LUMS), Memorial University of Newfoundland (MUN), and Carleton University.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I began my teaching career as an Economics teacher in Pakistan. After several years working in the related fields, such as undergraduate and graduate teaching in Economics, Quantitative Methods, and Econometrics, I proceeded into doctoral-level studies in Economics at Carleton University.
+
+I do empirical work in Macroeconomics and International Trade. I am currently working as a Lecturer/Contract Instructor in Economics Department at Carleton University and Toronto Metropolitan University.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
