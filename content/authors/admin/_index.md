@@ -64,7 +64,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-mailto: "ahmad.mumtaz@outlook.com"
+email: "mailto:ahmad.mumtaz@outlook.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
