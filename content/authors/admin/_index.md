@@ -10,7 +10,7 @@ role: Lecturer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Ryerson University
+- name: Toronto Metropolitan University
   url: https://www.ryerson.ca/
 
 # Short bio (displayed in user profile at end of posts)
@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Economics
+  - course: Ph.D. in Economics
     institution: Carleton University
     year: 2021
   - course: MA Economics
@@ -64,7 +64,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ahmad.mumtaz@outlook.com"
+mailto: "ahmad.mumtaz@outlook.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -74,6 +74,6 @@ Born and raised in Okara, Pakistan, I am a Doctor of Philosophy in Economics wit
 
 I began my teaching career as an Economics teacher in Pakistan. After several years working in the related fields, such as undergraduate and graduate teaching in Economics, Quantitative Methods, and Econometrics, I proceeded into doctoral-level studies in Economics at Carleton University.
 
-I do empirical work in Macroeconomics and International Trade. I am currently working as a Lecturer/Contract Instructor in Economics Department at Carleton University and Toronto Metropolitan University.
+I do empirical work in Macroeconomics and International Trade. I am currently working as a Lecturer/Contract Instructor in Economics Department at and Carleton University respectively.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
