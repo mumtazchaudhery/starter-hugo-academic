@@ -76,4 +76,4 @@ I began my teaching career as an Economics teacher in Pakistan. After several ye
 
 I do empirical work in Macroeconomics and International Trade. I am currently working as a Lecturer/Contract Instructor in Economics Department at and Carleton University respectively.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV-29APR-MA.pdf" "newtab" >}}resumé{{< /staticref >}}.
