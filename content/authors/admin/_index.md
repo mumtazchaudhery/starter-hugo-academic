@@ -6,7 +6,7 @@ title: Mumtaz Ahmad
 superuser: true
 
 # Role/position/tagline
-role: Lecturer(PT)
+role: Lecturer (PT)/ Contract Instructor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:ahmad.mumtaz@outlook.com
+  link: mailto:mumtaz.ahmad@carleton.ca
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MumtazChaudhery
@@ -65,7 +65,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "mailto:ahmad.mumtaz@outlook.com"
+email: mailto:mumtaz.ahmad@carleton.ca
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
