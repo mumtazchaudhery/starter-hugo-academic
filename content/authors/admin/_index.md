@@ -6,13 +6,14 @@ title: Mumtaz Ahmad
 superuser: true
 
 # Role/position/tagline
-role: Lecturer
+role: Lecturer(PT)
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Toronto Metropolitan University
   url: https://www.ryerson.ca/
-
+- name: Carleton University
+  url: https://www.carleton.ca/
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Macroeconomics, Econometrics and International Trade.
 
@@ -74,6 +75,6 @@ Born and raised in Okara, Pakistan, I am a Doctor of Philosophy in Economics wit
 
 I began my teaching career as an Economics teacher in Pakistan. After several years working in the related fields, such as undergraduate and graduate teaching in Economics, Quantitative Methods, and Econometrics, I proceeded into doctoral-level studies in Economics at Carleton University.
 
-I do empirical work in Macroeconomics and International Trade. I am currently working as a Lecturer/Contract Instructor in Economics Department at and Carleton University respectively.
+I do empirical work in Macroeconomics and International Trade. I am currently working as a Lecturer/Contract Instructor in Economics Department at Toronto Metropolitan and Carleton University respectively.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV-29APR-MA.pdf" "newtab" >}}resumé{{< /staticref >}}.
