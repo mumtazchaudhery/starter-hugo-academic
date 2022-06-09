@@ -7,9 +7,9 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 00
 
-title: Skills
+title: 
 subtitle:
 
 # Showcase personal skills or business features.
