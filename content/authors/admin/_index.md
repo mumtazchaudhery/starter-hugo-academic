@@ -32,7 +32,7 @@ education:
   - course: MA Economics
     institution: Memorial University
     year: 2012
-  - course: BSc in Mathematics, Economics and Statistics
+  - course: B.Sc. in Mathematics, Economics & Statistics
     institution: University of the Punjab
     year: 1999
 
