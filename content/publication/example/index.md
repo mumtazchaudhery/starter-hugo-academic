@@ -1,12 +1,12 @@
 ---
-title: "An example conference paper"
+title: "Tariff Pass-Through and Implications for Domestic Markets: Evidence from U.S. Steel Imports"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Imtiaz Ahmad
 
 # Author notes (optional)
 author_notes:
@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Wowchemy Conference*
@@ -32,7 +32,7 @@ publication_short: In *ICW*
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Recent studies report that the overall burden of tariffs has entirely passed to U.S. firms and consumers in terms of higher import prices. However, using 10-digits import data from U.S. Customs for 2018-2019, we find that import prices of steel products behaved differently: First, foreign exporters have gradually decreased their prices, sharing almost 50 percent of the burden of increased tariffs for all steel products mostly determined by industrial supplies and materials. Second, the price and import elasticities for consumer steel products are substantially higher at 5 and - 8, respectively. Third, the immediate increase in prices of industrial supplies was near 100 percent, which decreased to slightly below 50 percent in the long run. The elasticity of imports increased over time to near 1 in the long run. The imports of steel products, which have moved in tandem with domestic steel consumption over the last ten years, exhibited a diverging trend after the imposition of tariffs. The steel imports had declined from 34.5 in 2017 to 26.3 million metric tons in 2019. During the same period, domestic production increased from 81.6 to 87.9 million metric tons, almost equal to the peak production the U.S. achieved in 2012 and 2014.
 
 tags: []
 
