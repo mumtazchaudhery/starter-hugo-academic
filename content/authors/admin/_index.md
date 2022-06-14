@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD Economics
+  - course: Ph.D. Economics
     institution: Carleton University
     year: 2021
   - course: MA Economics
