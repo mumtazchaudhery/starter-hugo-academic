@@ -23,12 +23,12 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Professor
-    company: GenCoin
+    company: Carleton University
     company_url: ''
     company_logo: org-gc
     location: California
     date_start: '2021-01-01'
-    date_end: ''
+    date_end: '2022-02-02'
     description: |2-
         Responsibilities include:
         
