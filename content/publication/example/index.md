@@ -13,7 +13,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: ""
+date: "2013-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -41,7 +41,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: 
+#   url: http://example.org
 
 url_pdf: ''
 url_code: ''
@@ -55,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `` to your page's folder. 
 image:
-  caption: 
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
 
