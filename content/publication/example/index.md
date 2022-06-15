@@ -1,5 +1,5 @@
 ---
-title: "Tariff Pass-Through and Implications for Domestic Markets: Evidence from U.S. Steel Imports"
+title:"Tariff Pass-Through and Implications for Domestic Markets: Evidence from U.S. Steel Imports"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -13,7 +13,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -41,7 +41,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: http://example.org
+#   url: 
 
 url_pdf: ''
 url_code: ''
@@ -55,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 
   focal_point: ""
   preview_only: false
 
