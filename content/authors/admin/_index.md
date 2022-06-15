@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto: mumtaz.ahmad@carleton.ca
+  link: mailto:mumtaz.ahmad@carleton.ca
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MumtazChaudhery
