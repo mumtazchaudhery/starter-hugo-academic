@@ -26,7 +26,7 @@ item:
 - certificate_url: https://www.coursera.org
   date_end: ""
   date_start: "2021-01-25"
-  description: ""
+  description: "abc"
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Neural Networks and Deep Learning
