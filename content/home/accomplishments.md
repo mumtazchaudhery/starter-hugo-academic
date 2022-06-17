@@ -42,10 +42,11 @@ item:
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
   date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  description: "We estimate returns to scale at the industry level using the longest consistent dataset
+available for the U.S. economy. Focussing on the data since the late 1980s, the average estimate is 1, implying constant returns. An intuitive identity linking returns to scale, the markup, and the profit rate, gives small implied average gross and value-added markups of approximately 5 and 10 percent, respectively, given our measure of the profit rate, over the past 30 years. This gross markup estimate is significantly less than the average gross markup estimates in the recent literature ranging from 30 – 40 percent during this period. Put differently, given our estimated profit rate, large markups imply strongly increasing returns, which are not evident in the aggregate data."
+  organization: 
+  organization_url: 
+  title: 'Returns to Scale in U.S. Production, Redux'
   url: ""
 
 design:
