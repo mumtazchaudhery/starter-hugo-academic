@@ -30,7 +30,7 @@ item:
   organization: 
   organization_url: 
   title: "Tariff Pass-Through and Implications for Domestic Markets: Evidence from US Steel Imports"
-  url: ""
+  url: "https://www.edx.org"
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2021-01-01"
