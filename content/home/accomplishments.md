@@ -30,15 +30,27 @@ item:
   organization: 
   organization_url: 
   title: "Tariff Pass-Through and Implications for Domestic Markets: Evidence from US Steel Imports"
-  url: "https://www.edx.org"
-- certificate_url: https://www.edx.org
+  url: ""
+- certificate_url: 
   date_end: ""
   date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  description: Do Free Trade Agreements (FTAs) increase the dollar value of already exported products–
+the intensive export margins? Recent literature has documented an ambiguous impact on
+exports of these products. I develop a framework that explains the source of ambiguous
+effects of FTAs on intensive export margins. I use 6-digit bilateral trade data and five
+FTAs to estimate the dynamic effects of the agreements on Canadian exports to its FTA
+partners. I first divide the pre-agreement export basket into two groups, i.e., products
+at positive and negative intensive margins. My difference-in-differences estimates show
+that (i) export value of both groups of products increases significantly in the short- and
+long-term for developed FTA partners. (ii) In cases where FTA partners are emerging mar-
+kets, the impact is insignificant or negative in both the short- and long-term. Regression
+Discontinuity Design estimates also suggest that the impact of FTA on the export value
+of products at intensive margins depends on whether the FTA partners are emerging or
+developed markets.
+  organization: 
+  organization_url: 
+  title: New Products or More of the Old? Estimating the Impact of Canadian Free Trade Agreements on Exports
+  url: 
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
   date_start: "2020-07-01"
